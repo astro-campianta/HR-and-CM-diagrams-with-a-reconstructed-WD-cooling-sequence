@@ -96,7 +96,7 @@ Three input files are required, none of which are derived from the code itself:
 
 - **multiage.txt**: a grid of PARSEC isochrones (CMD 3.9, v1.2S+COLIBRI physics) spanning several ages, used by `build_wd_sequence.py` to derive the lifetime-vs-initial-mass relation;
 - **isochrone_parsec_1Gyr_solar_full.txt**: a single PARSEC isochrone at t = 1 Gyr, Z = 0.0152, used by `plot_stellar_diagrams.py`;
-- **wd_models/**: seven BaSTI white dwarf cooling tracks (Cassisi et al. 2007), with DA hydrogen atmosphere, Z = 0.020, and Johnson-Cousins photometry, one file per WD mass (0.54 to 1.10 M☉).
+- **wd_models**: seven BaSTI white dwarf cooling tracks (Cassisi et al. 2007), with DA hydrogen atmosphere, Z = 0.020, and Johnson-Cousins photometry, one file per WD mass (0.54 to 1.10 M☉).
 
 Both PARSEC isochrones were obtained from the PARSEC CMD web interface (stev.oapd.inaf.it/cgi-bin/cmd), and the cooling tracks from the BaSTI web interface (basti-iac.oa-abruzzo.inaf.it/wdmodels.html).
 
