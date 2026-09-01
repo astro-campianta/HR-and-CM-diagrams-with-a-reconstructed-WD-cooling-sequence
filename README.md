@@ -1,4 +1,4 @@
-# HR-and-CM-diagrams-for-The-Stellar-Atlas-video-podcast
+# HR and CM diagrams for *The Stellar Atlas* video-podcast
 
 This project provides two Python scripts to generate theoretical Hertzsprung-Russell and color-magnitude diagrams from a PARSEC isochrone, extended with a white dwarf (WD) cooling sequence reconstructed from PARSEC progenitor lifetimes, the Kalirai (2008) initial-final mass relation, and BaSTI cooling tracks (since PARSEC alone does not include the WD phase).
 
