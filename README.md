@@ -1,6 +1,6 @@
 # HR and CM diagrams with a reconstructed white dwarf cooling sequence
 
-This project provides the two Python scripts used to generate the stellar-evolution diagrams featured in *Nozioni di base dell'astrofisica stellare* (*Basic notions of stellar astrophysics*), the episode following the introduction of *L'Atlante Stellare* (*The Stellar Atlas*), a personal video-podcast series on stellar astrophysics developed by Camilla Pianta. 
+This project provides the two Python scripts used to generate the stellar-evolution diagrams featured in *Nozioni di base dell'astrofisica stellare* (*Basic notions of stellar astrophysics*), the episode following the introduction of *L'atlante stellare* (*The stellar atlas*), a personal video-podcast series on stellar astrophysics developed by Camilla Pianta. 
 The scripts build theoretical Hertzsprung-Russell and color-magnitude diagrams from a PARSEC isochrone, extended with a white dwarf (WD) cooling sequence reconstructed from PARSEC progenitor lifetimes, the Kalirai (2008) initial-final mass relation, and BaSTI cooling tracks (since PARSEC alone does not include the WD phase).
 
 ---
